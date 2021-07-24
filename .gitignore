@@ -1,0 +1,7 @@
+*venv/
+*.idea/
+*__pycache__/
+sent_to_teacher/
+.DS_Store
+images/
+documents/

@@ -1,2 +1,2 @@
-# boa
-Butterfly Optimization Algorithm for Weapon Target Assignment Problem
+# butterfly-optimization-algorithm
+Solving Weapon Target Assignment (WTA) problem with Butterfly Optimization Algorithm (BOA).
